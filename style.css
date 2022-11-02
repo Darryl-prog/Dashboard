@@ -6,7 +6,7 @@ body {
     font-family: poppins, sans-serif;
     font-size: 0.88rem;
     user-select: none;
-    overflow-x: hidden;
+    overflow-x: scroll;
 
 }
 
