@@ -207,7 +207,6 @@ main .monitoring .left-content small {
     grid-template-columns: 2fr 1fr;
     margin-top: 1rem;
     border-radius: 1rem;
-    padding: 0.5rem;
 }
 
 #monitoring .content .right-content #application .application-content-left,
